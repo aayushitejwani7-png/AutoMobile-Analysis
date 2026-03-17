@@ -70,15 +70,6 @@ Extensive **data cleaning and transformation** were performed in Power BI:
 
 ![Company Performance Dashboard](https://raw.githubusercontent.com/aayushitejwani7-png/AutoMobile-Analysis/main/AutoMobile%20Dashboard%20ss.png)
 
-### 2️⃣ Complaints Analysis Dashboard
-> Examines customer dissatisfaction patterns, resolution outcomes, and temporal trends.
-
-- Tracks total complaint volumes over time
-- Breaks down resolution categories (upheld vs. not upheld)
-- Shows complaint trends across filing years
-
-![Complaints Analysis Dashboard](https://raw.githubusercontent.com/aayushitejwani7-png/AutoMobile-Analysis/main/AutoMobile%20Dashboard%20ss.png)
-
 ### ⚙️ Interactive Features
 The dashboard includes **dynamic filters** allowing users to slice and explore data by:
 - Company Name
